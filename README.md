@@ -1,6 +1,6 @@
 # Emaily-Full-Stack-Application
-Learned the architectural considerations of building a full stack app
-Connect a front-end Create-React-App server to a NodeJS and Express backend
+Learned the architectural considerations of building a full stack app.
+Connect a front-end Create-React-App server to a NodeJS and Express backend.
 Communicate data from your Mongo database to your React application
 Understand how to route user requests on the front end with React Router and on the backend with Express
 Build reusable user inputs with Redux Form, complete with navigation
